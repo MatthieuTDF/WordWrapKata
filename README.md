@@ -1,5 +1,7 @@
 # WordWrapKata
 
+Let's do a petit test
+
 ## Description
 La fonction wordwrap prend un objet String en entrée et un nombre de colonnes.
 Elle insère des linebreaks ("\n") aux bons endroits afin que chaque ligne ait une longueur inférieure au nombre de colonnes passé en paramètre.
