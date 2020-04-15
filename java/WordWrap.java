@@ -7,7 +7,6 @@ public class WordWrap {
     public static String wordWrap(String input, int columnNumber) {
 
         String cutInput = "", tempStr = "";
-        long countSpace = 0;
         List<String> words = new ArrayList<>(Arrays.asList(input.split("\\s+")));
         words.add("");
         int counter = 0;
@@ -25,7 +24,7 @@ public class WordWrap {
                 tempStr = "";
             }
         }
-        cutInput = (tempStr.length() > 1) ? cutInput += tempStr.substring(0,tempStr.length()-1) :  cutInput;
+        cutInput += tempStr.substring(0,tempStr.length()-1);
         return cutInput;
     }
 }
