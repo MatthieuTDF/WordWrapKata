@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4d39d0-6d85-42b5-8d25-0ae88fb43446" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1a4d39d0-6d85-42b5-8d25-0ae88fb43446" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/WordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/WordWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/WordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/WordWrapTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,61 +16,8 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/WordWrap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/WordWrapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/java/WordWrap.java" />
-        <option value="$PROJECT_DIR$/java/Main.java" />
-        <option value="$PROJECT_DIR$/java/WordWrapTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
   </component>
   <component name="PhpServers">
     <servers />
@@ -82,34 +33,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="WordWrapKata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordWrapKata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WordWrapKata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordWrapKata" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1aWqSV79982oUedjGSTP0Sg52MU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -117,13 +44,21 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
@@ -131,21 +66,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.WordWrapTest">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-14" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="WordWrapKata" />
@@ -183,11 +106,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordWrapTest.testWordWrap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WordWrapKata" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="WordWrapTest" />
-      <option name="METHOD_NAME" value="testWordWrap" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordWrapTest.lorem10Max" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordWrapKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordWrapTest" />
+      <option name="METHOD_NAME" value="lorem10Max" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordWrapTest.smallLorem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordWrapKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordWrapTest" />
+      <option name="METHOD_NAME" value="smallLorem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordWrapTest.twoBreaksComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordWrapKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordWrapTest" />
+      <option name="METHOD_NAME" value="twoBreaksComplex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordWrapTest.twoBreaksWithLongWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WordWrapKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordWrapTest" />
+      <option name="METHOD_NAME" value="twoBreaksWithLongWord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -195,11 +157,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.WordWrapTest.testWordWrap" />
+      <item itemvalue="JUnit.WordWrapTest.twoBreaksComplex" />
+      <item itemvalue="JUnit.WordWrapTest.twoBreaksWithLongWord" />
+      <item itemvalue="JUnit.WordWrapTest.smallLorem" />
+      <item itemvalue="JUnit.WordWrapTest.lorem10Max" />
+      <item itemvalue="JUnit.WordWrapTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WordWrapTest.testWordWrap" />
+        <item itemvalue="JUnit.WordWrapTest" />
+        <item itemvalue="JUnit.WordWrapTest.lorem10Max" />
+        <item itemvalue="JUnit.WordWrapTest.smallLorem" />
+        <item itemvalue="JUnit.WordWrapTest.twoBreaksWithLongWord" />
+        <item itemvalue="JUnit.WordWrapTest.twoBreaksComplex" />
       </list>
     </recent_temporary>
   </component>
@@ -214,172 +184,55 @@
       <option name="presentableId" value="Default" />
       <updated>1586426045676</updated>
       <workItem from="1586426047413" duration="204000" />
+      <workItem from="1586861702936" duration="4548000" />
+      <workItem from="1586945378251" duration="7543000" />
+      <workItem from="1586957903726" duration="4663000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="WordWrapTest_testWordWrap - 2020.04.09 at 11h 56m 49s.xml">
-      <configuration name="WordWrapTest.testWordWrap" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/WordWrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/WordWrapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="287" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586961331356">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="287" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1586961331356" />
+    <state x="287" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816@0.23.1440.816" timestamp="1586954879491" />
+    <state x="99" y="140" width="1200" height="585" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586964231692">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="99" y="140" width="1200" height="585" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.814@0.23.1440.814" timestamp="1586964231692" />
+    <state x="566" y="228" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586897436838">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="566" y="228" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.814@0.23.1440.814" timestamp="1586897436838" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1586963703298">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1586963703298" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586954882633" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1586963703298">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1586963703298" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1586954882633" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1586963703297">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1586963703297" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1586954882632" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1586963703298">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1586963703298" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1586954882633" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1586859042528">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1586859042528" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WordWrapKata$Main.ic" NAME="Main Coverage Results" MODIFIED="1586861075549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
