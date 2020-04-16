@@ -11,6 +11,9 @@ public class WordWrap {
         int j;
         int curs;
 
+        if (columnNumber == 0){
+            return "error column is NULL";
+        }
         if (input.length()<columnNumber){
             return input;
         }
