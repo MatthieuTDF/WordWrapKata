@@ -1,5 +1,6 @@
 
 public class WordWrap {
+    // fait avec Romain et Hania
 
     public static String wordWrap(String input, int columnNumber) {
         String[] array = input.split(" ");
@@ -29,3 +30,6 @@ public class WordWrap {
         return (finalString.endsWith("\n")) ? finalString.substring(0, finalString.length()-1) : finalString;
     }
 }
+
+
+
