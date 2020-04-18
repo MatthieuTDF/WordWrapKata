@@ -76,7 +76,6 @@ public class WordWrap {
 
             }
         }
-        String lastWord = test.substring(test.lastIndexOf(" ")+1);
 
         test+=words[words.length-1];
 
