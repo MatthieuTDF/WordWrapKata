@@ -1,3 +1,6 @@
+
+// BEAULIEU Florentin , 2ESGIA1
+
 public class WordWrap {
 
     public static boolean isSplittable(String str, int position)
