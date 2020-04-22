@@ -86,7 +86,7 @@ public class WordWrapTest {
         String inputString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
         String expectedString =
-                        "Lorem ipsum dolor sit amet, consectetur\n" +
+                "Lorem ipsum dolor sit amet, consectetur\n" +
                         "adipiscing elit, sed do eiusmod tempor\n" +
                         "incididunt ut labore et dolore magna\n" +
                         "aliqua. Ut enim ad minim veniam, quis\n" +
@@ -109,7 +109,7 @@ public class WordWrapTest {
         String inputString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
         String expectedString =
-                        "Lorem ipsum dolor\n" +
+                "Lorem ipsum dolor\n" +
                         "sit amet,\n" +
                         "consectetur\n" +
                         "adipiscing elit, sed\n" +
@@ -145,7 +145,7 @@ public class WordWrapTest {
         String inputString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
         String expectedString =
-                        "Lorem\n" +
+                "Lorem\n" +
                         "ipsum\n" +
                         "dolor sit\n" +
                         "amet,\n" +
